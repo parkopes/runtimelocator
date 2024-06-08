@@ -1,0 +1,6 @@
+plugins {
+    id 'java'
+}
+
+group = 'net.jezevcik'
+version = '1.0'
